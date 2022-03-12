@@ -600,7 +600,6 @@ a {
     flex-direction: column;
     height: 50vh;
     margin-left: 0;
-    padding: 0;
   }
 
   .modal-description p {
@@ -667,6 +666,8 @@ a {
 
 .modal-content {
   background-color: white;
+  padding: 5%;
+  border-radius: 20px;
 }
 
 .modal-header {
