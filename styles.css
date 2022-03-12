@@ -668,6 +668,7 @@ a {
   background-color: white;
   padding: 5%;
   border-radius: 20px;
+  overflow: scroll;
 }
 
 .modal-header {
